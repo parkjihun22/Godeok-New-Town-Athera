@@ -11,7 +11,7 @@ import InterestPopup from "../InterestPopup/InterestPopup";
 
 // FAMILY SITE 목록 예시
 const partnerSites = [
-  { name: "고덕신도시 아테라", url: "https://www.diarivalencia.com/" },
+  { name: "고덕신도시 아테라", url: "https://www.godeok-athera.co.kr/" },
 ];
 
 const Footer = () => {

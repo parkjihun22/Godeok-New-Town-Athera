@@ -83,7 +83,7 @@ const BusinessGuide2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/BusinessGuide/documents"
+    href="https://www.godeok-athera.co.kr/BusinessGuide/documents"
   />
 
   {/* Open Graph */}
@@ -102,12 +102,12 @@ const BusinessGuide2 = () => {
 
   <meta
     property="og:url"
-    content="https://www.diarivalencia.com/BusinessGuide/documents"
+    content="https://www.godeok-athera.co.kr/BusinessGuide/documents"
   />
 
   <meta
     property="og:image"
-    content="https://www.diarivalencia.com/Main1.png"
+    content="https://www.godeok-athera.co.kr/Main1.png"
   />
 </Helmet>
 

@@ -65,7 +65,7 @@ const BusinessGuide2 = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/BusinessGuide/plan"
+    href="https://www.godeok-athera.co.kr/BusinessGuide/plan"
   />
 
   <meta name="robots" content="index,follow" />

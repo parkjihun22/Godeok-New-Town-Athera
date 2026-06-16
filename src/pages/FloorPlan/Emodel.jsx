@@ -61,7 +61,7 @@ const Emodel = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/FloorPlan/Emodel"
+    href="https://www.godeok-athera.co.kr/FloorPlan/Emodel"
   />
 
   <meta property="og:type" content="website" />
@@ -75,12 +75,12 @@ const Emodel = () => {
 
   <meta
     property="og:url"
-    content="https://www.diarivalencia.com/FloorPlan/Emodel"
+    content="https://www.godeok-athera.co.kr/FloorPlan/Emodel"
   />
 
   <meta
     property="og:image"
-    content="https://www.diarivalencia.com/img/og/emodel.jpg"
+    content="https://www.godeok-athera.co.kr/img/og/emodel.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -96,12 +96,12 @@ const Emodel = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.diarivalencia.com/img/og/emodel.jpg"
+    content="https://www.godeok-athera.co.kr/img/og/emodel.jpg"
   />
 
   <meta
     name="twitter:url"
-    content="https://www.diarivalencia.com/FloorPlan/Emodel"
+    content="https://www.godeok-athera.co.kr/FloorPlan/Emodel"
   />
 
   <script type="application/ld+json">
@@ -109,12 +109,12 @@ const Emodel = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "고덕신도시 아테라 E모델하우스",
-      "url": "https://www.diarivalencia.com/FloorPlan/Emodel",
+      "url": "https://www.godeok-athera.co.kr/FloorPlan/Emodel",
       "description":
         "평택 고덕국제화계획지구 A-63BL 고덕신도시 아테라 E모델하우스 페이지입니다. 세대 평면, 실내 구조, 공간 구성과 주거 동선을 온라인으로 확인할 수 있습니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.diarivalencia.com/img/og/emodel.jpg",
+        "contentUrl": "https://www.godeok-athera.co.kr/img/og/emodel.jpg",
         "width": 1200,
         "height": 630
       },
@@ -125,13 +125,13 @@ const Emodel = () => {
             "@type": "ListItem",
             "position": 1,
             "name": "홈",
-            "item": "https://www.diarivalencia.com/"
+            "item": "https://www.godeok-athera.co.kr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "E모델하우스",
-            "item": "https://www.diarivalencia.com/FloorPlan/Emodel"
+            "item": "https://www.godeok-athera.co.kr/FloorPlan/Emodel"
           }
         ]
       }

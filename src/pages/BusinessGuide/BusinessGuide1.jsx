@@ -106,7 +106,7 @@ const BusinessGuide1 = () => {
 
   <link
     rel="canonical"
-    href="https://www.diarivalencia.com/BusinessGuide/intro"
+    href="https://www.godeok-athera.co.kr/BusinessGuide/intro"
   />
 
   <meta property="og:type" content="website" />
@@ -124,12 +124,12 @@ const BusinessGuide1 = () => {
 
   <meta
     property="og:url"
-    content="https://www.diarivalencia.com/BusinessGuide/intro"
+    content="https://www.godeok-athera.co.kr/BusinessGuide/intro"
   />
 
   <meta
     property="og:image"
-    content="https://www.diarivalencia.com/img/og/business.jpg"
+    content="https://www.godeok-athera.co.kr/img/og/business.jpg"
   />
 
   <meta property="og:image:width" content="1200" />
@@ -149,7 +149,7 @@ const BusinessGuide1 = () => {
 
   <meta
     name="twitter:image"
-    content="https://www.diarivalencia.com/img/og/business.jpg"
+    content="https://www.godeok-athera.co.kr/img/og/business.jpg"
   />
 
   <script type="application/ld+json">
@@ -157,11 +157,11 @@ const BusinessGuide1 = () => {
       "@context": "https://schema.org",
       "@type": "WebPage",
       "name": "고덕신도시 아테라 사업안내",
-      "url": "https://www.diarivalencia.com/BusinessGuide/intro",
+      "url": "https://www.godeok-athera.co.kr/BusinessGuide/intro",
       "description": "평택 고덕국제화계획지구 A-63BL에 조성되는 고덕신도시 아테라의 사업개요, 입지환경, 단지 가치, 브랜드 프리미엄 정보를 제공합니다.",
       "primaryImageOfPage": {
         "@type": "ImageObject",
-        "contentUrl": "https://www.diarivalencia.com/img/og/business.jpg",
+        "contentUrl": "https://www.godeok-athera.co.kr/img/og/business.jpg",
         "width": 1200,
         "height": 630
       },
@@ -172,13 +172,13 @@ const BusinessGuide1 = () => {
             "@type": "ListItem",
             "position": 1,
             "name": "홈",
-            "item": "https://www.diarivalencia.com/"
+            "item": "https://www.godeok-athera.co.kr/"
           },
           {
             "@type": "ListItem",
             "position": 2,
             "name": "사업안내",
-            "item": "https://www.diarivalencia.com/BusinessGuide/intro"
+            "item": "https://www.godeok-athera.co.kr/BusinessGuide/intro"
           }
         ]
       }

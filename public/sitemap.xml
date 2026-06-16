@@ -8,7 +8,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <!-- 홈페이지 -->
 <url>
-<loc>https://www.diarivalencia.com/</loc>
+<loc>https://www.godeok-athera.co.kr/</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>1.0</priority>
@@ -16,14 +16,14 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <!-- 브랜드소개 -->
 <url>
-<loc>https://www.diarivalencia.com/Brand/intro</loc>
+<loc>https://www.godeok-athera.co.kr/Brand/intro</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/Brand/video</loc>
+<loc>https://www.godeok-athera.co.kr/Brand/video</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>monthly</changefreq>
 <priority>0.7</priority>
@@ -31,14 +31,14 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <!-- 사업개요 -->
 <url>
-<loc>https://www.diarivalencia.com/BusinessGuide/intro</loc>
+<loc>https://www.godeok-athera.co.kr/BusinessGuide/intro</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/BusinessGuide/plan</loc>
+<loc>https://www.godeok-athera.co.kr/BusinessGuide/plan</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
@@ -46,14 +46,14 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <!-- 분양안내 -->
 <url>
-<loc>https://www.diarivalencia.com/BusinessGuide/documents</loc>
+<loc>https://www.godeok-athera.co.kr/BusinessGuide/documents</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/SalesInfo/announcement</loc>
+<loc>https://www.godeok-athera.co.kr/SalesInfo/announcement</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
@@ -61,14 +61,14 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <!-- 입지환경 -->
 <url>
-<loc>https://www.diarivalencia.com/LocationEnvironment/intro</loc>
+<loc>https://www.godeok-athera.co.kr/LocationEnvironment/intro</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/LocationEnvironment/primium</loc>
+<loc>https://www.godeok-athera.co.kr/LocationEnvironment/primium</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
@@ -76,21 +76,21 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <!-- 단지안내 -->
 <url>
-<loc>https://www.diarivalencia.com/ComplexGuide/intro</loc>
+<loc>https://www.godeok-athera.co.kr/ComplexGuide/intro</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/ComplexGuide/detailintro</loc>
+<loc>https://www.godeok-athera.co.kr/ComplexGuide/detailintro</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/ComplexGuide/community</loc>
+<loc>https://www.godeok-athera.co.kr/ComplexGuide/community</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
@@ -98,42 +98,42 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <!-- 세대안내 -->
 <url>
-<loc>https://www.diarivalencia.com/FloorPlan/59A</loc>
+<loc>https://www.godeok-athera.co.kr/FloorPlan/59A</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/FloorPlan/59B</loc>
+<loc>https://www.godeok-athera.co.kr/FloorPlan/59B</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/FloorPlan/84A</loc>
+<loc>https://www.godeok-athera.co.kr/FloorPlan/84A</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/FloorPlan/84B</loc>
+<loc>https://www.godeok-athera.co.kr/FloorPlan/84B</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/FloorPlan/114A</loc>
+<loc>https://www.godeok-athera.co.kr/FloorPlan/114A</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.8</priority>
 </url>
 
 <url>
-<loc>https://www.diarivalencia.com/FloorPlan/Emodel</loc>
+<loc>https://www.godeok-athera.co.kr/FloorPlan/Emodel</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>weekly</changefreq>
 <priority>0.9</priority>
@@ -141,7 +141,7 @@ http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
 
 <!-- 홍보센터 -->
 <url>
-<loc>https://www.diarivalencia.com/Promotion/Customer</loc>
+<loc>https://www.godeok-athera.co.kr/Promotion/Customer</loc>
 <lastmod>2026-06-16T09:00:00+09:00</lastmod>
 <changefreq>daily</changefreq>
 <priority>0.9</priority>
